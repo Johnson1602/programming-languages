@@ -1,3 +1,5 @@
 # Introduction
 
-Keep track of the process of learning how to do full stack with python.
+This repository keeps track of my learning process of different programming languages.
+
+Currently Python and Java.
